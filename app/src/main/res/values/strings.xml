@@ -1,0 +1,53 @@
+<resources>
+    <string name="app_name">Sistema informativo UE</string>
+
+    <string name="title_login">Sistema informativo dell’UE</string>
+
+    <string name="username">USERNAME</string>
+    <string name="password">PASSWORD</string>
+
+    <string name="username_title_hint">Insert username</string>
+    <string name="password_title_hint">Insert password</string>
+
+    <string name="error">Login failed!</string>
+
+    <string name="name_country">Name: </string>
+
+    <string name="country_francia">Francia</string>
+    <string name="country_cechia">Cechia</string>
+    <string name="country_grecia">Grecia</string>
+    <string name="country_bulgaria">Bulgaria</string>
+    <string name="country_spagna">Spagna</string>
+    <string name="country_polonia">Polonia</string>
+    <string name="country_malta">Malta</string>
+    <string name="country_italia">Italia</string>
+    <string name="country_romania">Romania</string>
+    <string name="country_finlandia">Finlandia</string>
+
+    <string name="area">Area: </string>
+    
+    <string name="area_francia">643.801 km²</string>
+    <string name="area_cechia">78.865 km²</string>
+    <string name="area_grecia">131.957 km²</string>
+    <string name="area_bulgaria">110.994 km²</string>
+    <string name="area_spagna">505.990 km²</string>
+    <string name="area_polonia">312.679 km²</string>
+    <string name="area_malta">316 km²</string>
+    <string name="area_italia">301.338 km²</string>
+    <string name="area_romania">238.397 km²</string>
+    <string name="area_finlandia">338.424 km²</string>
+
+    <string name="population">Population: </string>
+    
+    <string name="population_francia">66,99 milioni</string>
+    <string name="population_cechia">10,65 milioni</string>
+    <string name="population_grecia">10,74 milioni</string>
+    <string name="population_bulgaria">7,05 milioni</string>
+    <string name="population_spagna">46,66 milioni </string>
+    <string name="population_polonia">37,98 milioni</string>
+    <string name="population_malta">493.559 mila</string>
+    <string name="population_italia">60,48 milioni</string>
+    <string name="population_romania">19,53 milioni</string>
+    <string name="population_finlandia">5,513 milioni</string>
+
+</resources>
